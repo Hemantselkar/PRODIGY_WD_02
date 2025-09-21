@@ -58,7 +58,6 @@ function lap() {
   }
 }
 
-// Event listeners
 startPauseBtn.addEventListener("click", startPause);
 resetBtn.addEventListener("click", reset);
 lapBtn.addEventListener("click", lap);
